@@ -59,6 +59,10 @@
  */
 import 'zone.js/dist/zone';  // Included with Angular CLI.
 
+/* para versoes antigas
+import 'intl'
+import 'intl/locale-data/jsonp/pt-Br';
+*/
 
 /***************************************************************************************************
  * APPLICATION IMPORTS
